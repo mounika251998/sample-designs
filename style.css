@@ -1,0 +1,91 @@
+body{
+    background-image:url(paper.jpeg) ;
+    background-size:cover;
+}
+a{
+    text-decoration: none;
+    padding:4px 30px;
+    margin-top: 5px;
+    color:white;
+}
+.new{
+    margin-left: 222px;
+    margin-top: 5px;
+}
+.partent,h1{
+    font-size:20px;
+    color: pink;
+    display: inline;
+    margin-left: 120px;
+}
+.old{
+    margin-top: 5px;
+}
+.partent{
+    display: flex;
+}
+p{
+    color:white;
+    font-size:64px;
+    margin-top: 224px;
+    margin-left: 263px;
+}
+.form{
+    margin-left: 350px;
+}
+input{
+    height: 30px;
+    width: 300px;
+    margin-left: 20px;
+    padding: 20px;
+    border: none;
+}
+
+.form1{
+    height: 30px;
+    width: 200px;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+}
+.form1::placeholder{
+    color: white;
+}
+.icon{
+    position: absolute;
+    left: 183px;
+    top: 5px;
+}
+.size{
+    font-size: 25px;
+}
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    border: 1px solid red;
+  }
+  .fa-facebook {
+    background: none;
+    color: white;
+  }
+  
+  .fa-google {
+    background: none;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: none;
+    color: white;
+  }
+  .title{
+      position: absolute;
+      left: 93%;
+      top: 345px;
+  }
